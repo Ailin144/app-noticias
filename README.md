@@ -1,9 +1,9 @@
-# Aplicación de Noticias 
+## Aplicación Noticias del Mundo 
 Pwa de noticias , consumiendo APi 
-[App Noticas del mundo](https://ionic-app-news.web.app/tabs/tab1).
+* [App Noticas del mundo](https://ionic-app-news.web.app/tabs/tab1).
 
-## Tecnologias utilizadas 
--Angular
--Ionic
--TypeScript 
--APi utilizada NewData.io
+### Tecnologias utilizadas 
+- Angular
+- Ionic
+- TypeScript 
+- APi utilizada NewData.io
